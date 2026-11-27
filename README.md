@@ -1,10 +1,10 @@
-# 我的抖音知识库
+# 我的知识库
 
-[![抖音知识库](https://raw.githubusercontent.com/youngting520/youngting520/main/assets/douyin-knowledge-cover.png)](#主题目录)
+[![我的知识库](assets/knowledge-base-cover.jpg)](#主题目录)
 
 **52 篇学习笔记** · **2 个主题** · **0 条待补笔记**
 
-从抖音收藏和点赞中整理出的做法、练习和分析。每篇笔记都附学习要点、依据和原作品。
+这里收录了按主题整理的学习笔记和 Skill 推荐。笔记附学习要点和原作品链接，推荐表列出每个技能的用途和项目链接。
 
 [按主题浏览](#主题目录)　·　[读学习笔记](知识卡片.md)　·　[很顶的Skill推荐](很顶的Skill推荐.md)
 
